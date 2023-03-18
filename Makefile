@@ -7,3 +7,5 @@ compile:
 
 sync:
 	@python -m piptools sync requirements.txt dev-requirements.txt
+
+.PHONY: install compile sync
