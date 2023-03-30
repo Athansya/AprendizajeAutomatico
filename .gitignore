@@ -1,2 +1,7 @@
 # Directorios
 AprendizajeAutomatico.egg-info/
+
+
+# Archivos
+*.xml
+*.iml
